@@ -1,26 +1,26 @@
 {
-    "name": "cgdsoftware/image-transformer",
+    "name": "laravel-liberu/image-transformer",
     "description": "Image transformer dependency for Laravel Enso",
     "keywords": [
         "laravel",
-        "cgdsoftware",
+        "laravel-liberu",
         "image-transformer",
         "image-optimizer"
     ],
-    "homepage": "https://github.com/cgdsoftware/image-transformer",
+    "homepage": "https://github.com/laravel-liberu/image-transformer",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
             "name": "Adrian Ocneanu",
             "email": "aocneanu@gmail.com",
-            "homepage": "https://cgdsoftware.com",
+            "homepage": "https://laravel-liberu.com",
             "role": "Developer"
         }
     ],
     "require": {
         "laravel/framework": "^9.0",
-        "cgdsoftware/helpers": "^2.0",
+        "laravel-liberu/helpers": "^2.0",
         "intervention/image": "^2.5",
         "php": ">=8.0",
         "spatie/laravel-image-optimizer": "^1.6"
