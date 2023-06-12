@@ -13,11 +13,11 @@ use Symfony\Component\HttpFoundation\File\UploadedFile;
 
 class ImageTransformer
 {
-    public const SupportedMimeTypes = ['image/png', 'image/jpeg', 'image/gif', 'image/webp'];
+    final public const SupportedMimeTypes = ['image/png', 'image/jpeg', 'image/gif', 'image/webp'];
 
     private Image $image;
 
-    public function __construct(private File $file)
+    public function __construct(private readonly File $file)
     {
         $this->validate($file);
     }
