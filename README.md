@@ -1,14 +1,14 @@
 # Image Transformer
 
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/99b147a473854c5bba33e7f8b83e35ba)](https://www.codacy.com/gh/laravel-enso/image-transformer?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=laravel-enso/image-transformer&amp;utm_campaign=Badge_Grade) 
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/99b147a473854c5bba33e7f8b83e35ba)](https://www.codacy.com/gh/laravel-liberu/image-transformer?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=laravel-liberu/image-transformer&amp;utm_campaign=Badge_Grade) 
 [![StyleCI](https://github.styleci.io/repos/96102464/shield?branch=master)](https://github.styleci.io/repos/96102464)
-[![License](https://poser.pugx.org/laravel-enso/image-transformer/license)](https://packagist.org/packages/laravel-enso/image-transformer)
-[![Total Downloads](https://poser.pugx.org/laravel-enso/image-transformer/downloads)](https://packagist.org/packages/laravel-enso/image-transformer)
-[![Latest Stable Version](https://poser.pugx.org/laravel-enso/image-transformer/version)](https://packagist.org/packages/laravel-enso/image-transformer)
+[![License](https://poser.pugx.org/laravel-liberu/image-transformer/license)](https://packagist.org/packages/laravel-liberu/image-transformer)
+[![Total Downloads](https://poser.pugx.org/laravel-liberu/image-transformer/downloads)](https://packagist.org/packages/laravel-liberu/image-transformer)
+[![Latest Stable Version](https://poser.pugx.org/laravel-liberu/image-transformer/version)](https://packagist.org/packages/laravel-liberu/image-transformer)
 
-Image transformer dependency for [Laravel Liberu](https://github.com/laravel-enso/Liberu).
+Image transformer dependency for [Laravel Liberu](https://github.com/laravel-liberu/Liberu).
 
-This package can work independently of the [Liberu](https://github.com/laravel-enso/Liberu) ecosystem.
+This package can work independently of the [Liberu](https://github.com/laravel-liberu/Liberu) ecosystem.
 
 For live examples and demos, you may visit [liberu.co.uk](https://www.liberu.co.uk)
 
