@@ -1,9 +1,9 @@
 <?php
 
-namespace LaravelEnso\ImageTransformer\Exceptions;
+namespace LaravelLiberu\ImageTransformer\Exceptions;
 
 use Illuminate\Http\UploadedFile;
-use LaravelEnso\Helpers\Exceptions\EnsoException;
+use LaravelLiberu\Helpers\Exceptions\EnsoException;
 
 class File extends EnsoException
 {
