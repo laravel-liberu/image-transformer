@@ -2,9 +2,9 @@
 
 namespace LaravelLiberu\ImageTransformer\Exceptions;
 
-use LaravelLiberu\Helpers\Exceptions\EnsoException;
+use LaravelLiberu\Helpers\Exceptions\LiberuException;
 
-class Dependency extends EnsoException
+class Dependency extends LiberuException
 {
     public static function missing()
     {

@@ -3,9 +3,9 @@
 namespace LaravelLiberu\ImageTransformer\Exceptions;
 
 use Illuminate\Http\UploadedFile;
-use LaravelLiberu\Helpers\Exceptions\EnsoException;
+use LaravelLiberu\Helpers\Exceptions\LiberuException;
 
-class File extends EnsoException
+class File extends LiberuException
 {
     public static function invalid(UploadedFile $file)
     {
